@@ -3,20 +3,6 @@ import './card.css'
 import {Card,Button,Row, Container} from 'react-bootstrap'
 const foods=[
     {
-        id:1,
-        name:'Idli',
-        price:35,
-        desc:'Idli is a savoury rice dish made from fermented lentils. It is a staple food of South Indian cuisine.',
-        img:'https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/idli.jpg'
-    },
-    {
-        id:2,
-        name:'Dosa',
-        price:45,
-        desc:'Dosa is a savoury rice dish made from fermented lentils. It is a staple food of South Indian cuisine.',
-        img:'https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa-500x500.jpg'
-    },
-    {
         id:3,
         name:'Puri',
         price:55,
